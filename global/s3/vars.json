@@ -5,9 +5,9 @@ variable "bucket_name" {
 }
 variable "aws_access_token" {
   description = "AWS access token (base64 encoded)"
-  default = "AKIA565DSHVSLAWPYLXA"
+  default = "AKIA565DSHVSITJNXENS"
 }
 variable "aws_secret" {
   description = "AWS secret (base64 encoded)"
-  default = "a2RaLy9Iekx5ejJBcEl6emVTY0h4Y0VybmZyd1UxZHRzREVJemdKWQo="
+  default = "wQS+Ip9lfIz7AOB/un8RwnC/GyuLf9p+gGqUQ6QY"
 }
